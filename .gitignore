@@ -1,0 +1,4 @@
+node_modules/
+build-cjs/
+build-es6/
+
